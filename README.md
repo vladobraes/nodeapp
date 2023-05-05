@@ -1,6 +1,6 @@
 # Project Title
 
-Knack - Take home exercise
+Take home exercise
 
 ## Features
 
